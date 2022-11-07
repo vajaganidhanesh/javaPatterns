@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7078870-f934-4e1d-8a10-2de2fe42796b" name="Changes" comment="started java with data structures">
-      <change afterPath="$PROJECT_DIR$/arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Input.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maxium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swapArrayValues.java" afterDir="false" />
+    <list default="true" id="a7078870-f934-4e1d-8a10-2de2fe42796b" name="Changes" comment="did some good stuff regarding arrays and arrayslists">
+      <change afterPath="$PROJECT_DIR$/src/linearSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/twod_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/twod_Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +36,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;shared-indexes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.swapArrayValues">
-    <configuration name="Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Input" />
+  <component name="RunManager" selected="Application.linearSearch">
+    <configuration name="arraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraylist" />
       <module name="javaPatterns" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraylist" />
+    <configuration name="linearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linearSearch" />
       <module name="javaPatterns" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.linearSearch" />
         <item itemvalue="Application.swapArrayValues" />
         <item itemvalue="Application.maxium" />
         <item itemvalue="Application.arraylist" />
         <item itemvalue="Application.twod_Array" />
-        <item itemvalue="Application.Input" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667384852899</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="did some good stuff regarding arrays and arrayslists">
+      <created>1667636100414</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667636100414</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,7 +121,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="started java with data structures" />
-    <option name="LAST_COMMIT_MESSAGE" value="started java with data structures" />
+    <MESSAGE value="did some good stuff regarding arrays and arrayslists" />
+    <option name="LAST_COMMIT_MESSAGE" value="did some good stuff regarding arrays and arrayslists" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
